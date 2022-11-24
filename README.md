@@ -4,4 +4,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktoriyaDatchuk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![codewars](https://www.codewars.com/users/rsschool_3bda881bd011acb0/badges/small)](https://www.codewars.com/users/rsschool_3bda881bd011acb0) 
+[![codewars](https://www.codewars.com/users/rsschool_ViktoriyaDatchuk/badges/small)](https://www.codewars.com/users/rsschool_3bda881bd011acb0) 
